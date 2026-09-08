@@ -7,11 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>Boner… the so-called 3-peat champion. The legend. The myth. The pain in all our fantasy lives. </p>
-<p>He’s been strutting around like he owns the league, flashing those trophies like they mean something more than luck and waiver wire steals. </p>
-<p>But this year is different. This year, we unite. It’s no longer just about beating Boner—it’s about saving fantasy football itself from his smug grin. </p>
-<p>Every team, every matchup, every move matters. Together, we can end the reign of terror. </p>
-<p>So sharpen your lineups, set your alarms, and let’s finally take this guy down. The Boner Dynasty must fall. </p>
+<p>Boner’s dynasty is officially dead. </p>
+<p>After three straight championships, the mighty Boner didn’t even make the playoffs last year. You hate to see it. Actually, no you don’t.</p>
+<p>Now John sits on the throne as reigning champ, while newcomers Ian and Maggie enter the chaos for the first time. </p>
+<p>New season. New blood. Same bad decisions.</p>
+<p>Let the nonsense begin.</p>
 `;
 
 /*   STEP 3   */
